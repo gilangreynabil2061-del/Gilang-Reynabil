@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baca Selengkapnya - Persib Bandung</title>
+</head>
+<body>
+
+  <h2>Persib Bandung</h2>
+
+  <img src="persib.png" alt="Logo Persib Bandung" width="300">
+
+  <p><strong>Persib Bandung</strong> adalah sebuah klub sepak bola profesional yang berbasis di Kota Bandung, Jawa Barat, Indonesia. Klub ini didirikan pada 14 Maret 1933 dan memiliki sejarah panjang serta identitas yang kuat dalam dunia sepak bola Indonesia.</p>
+
+  <p>Persib, yang juga dikenal dengan julukan <em>"Maung Bandung"</em>, merupakan salah satu klub paling populer dan memiliki basis pendukung yang sangat besar dan fanatik yang disebut <strong>Bobotoh</strong>. Klub ini bermain di kompetisi tertinggi Liga 1 Indonesia dan telah meraih berbagai prestasi, termasuk menjuarai Liga Indonesia pada tahun 1995 dan Liga Super Indonesia pada tahun 2014.</p>
+
+  <p>Warna kebanggaan Persib adalah biru, yang mencerminkan semangat dan loyalitas tim. Selain prestasi di lapangan, Persib juga dikenal sebagai simbol kebanggaan masyarakat Jawa Barat, dengan kontribusi besar terhadap perkembangan sepak bola nasional melalui pembinaan pemain lokal dan loyalitas komunitas pendukungnya.</p>
+
+  <p>Persib Bandung juga menjalin hubungan erat dengan komunitas pendukungnya, yang senantiasa memenuhi stadion di setiap pertandingan. Suasana yang diciptakan Bobotoh menjadikan setiap laga Persib penuh semangat dan energi. Klub ini juga berperan penting dalam menginspirasi generasi muda untuk menekuni dunia sepak bola.</p>
+
+  <div id="more"><a href="berita1.php">Baca selengkapnya</a></div>
+  <p><a href="index.html">← Kembali ke Beranda</a></p>
+
+</body>
+</html>
